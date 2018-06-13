@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 900a5af7b3273c240b53855525ec7799, type: 3}
+  m_Name: OpenAssetSettings
+  m_EditorClassIdentifier: 
+  ideaSumlime:
+    type: 1
+    appPath: D:/Program Files/Sublime Text 3/sublime_text.exe
+  ideaIntelliJ:
+    type: 2
+    appPath: D:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2017.2.2/bin/idea64.exe
+  ideaExcel:
+    type: 3
+    appPath: C:/Program Files/Microsoft Office/root/Office16/EXCEL.EXE
+  extensions: []
