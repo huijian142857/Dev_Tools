@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbdf0cb75928ca4da1eee2f0471b87a, type: 3}
+  m_Name: ABSetting
+  m_EditorClassIdentifier: 
+  infos:
+  - ABName: appsetting.ab
+    paths:
+    - {fileID: 102900000, guid: 9dbda12fc07924147b9b80f49344626a, type: 3}
+    subFolderLevel: 0
+  - ABName: config.ab
+    paths:
+    - {fileID: 102900000, guid: 87437c469481a63438353cb1f6164a7b, type: 3}
+    subFolderLevel: 0
+  - ABName: shaders.ab
+    paths:
+    - {fileID: 102900000, guid: cbf826fbd81be5a448cb5df3bbed1b6f, type: 3}
+    subFolderLevel: 0
+  - ABName: oldres.ab
+    paths:
+    - {fileID: 102900000, guid: b2dd71d9889391e42b1b15e243c2b2c4, type: 3}
+    subFolderLevel: 0
+  - ABName: fsfirm.ab
+    paths:
+    - {fileID: 102900000, guid: 5d0807ac177b8674181365115c7a26b3, type: 3}
+    subFolderLevel: 0
+  - ABName: Map
+    paths:
+    - {fileID: 102900000, guid: 14f5c8b26fd8fd045aae7572318ddcd8, type: 3}
+    subFolderLevel: 1
+  - ABName: Effects
+    paths:
+    - {fileID: 102900000, guid: d7ec69f11c8772d4e81cb4edbc37d9c0, type: 3}
+    subFolderLevel: 1
+  - ABName: Weapons
+    paths:
+    - {fileID: 102900000, guid: f4e07f092d76cb34181164692ba900de, type: 3}
+    subFolderLevel: 1
+  - ABName: Audio
+    paths:
+    - {fileID: 102900000, guid: 2c383c63a9c4a6249bf28cc9a3ce915f, type: 3}
+    subFolderLevel: 1
+  - ABName: Skin
+    paths:
+    - {fileID: 102900000, guid: 0e02b97abf2d7ec4687a6f9aa8ea5ade, type: 3}
+    subFolderLevel: 2
+  - ABName: Misc
+    paths:
+    - {fileID: 102900000, guid: 1fb423ec6c9b2db4bbc8778647357f4b, type: 3}
+    subFolderLevel: 2
+  - ABName: UI
+    paths:
+    - {fileID: 102900000, guid: 9db49c2d1ff99e64797b3428574013f4, type: 3}
+    subFolderLevel: 2
+  - ABName: scene
+    paths:
+    - {fileID: 102900000, guid: a668aa1863591ad4184a07ccb6e811f9, type: 3}
+    - {fileID: 102900000, guid: 5299f2cc35aba4c488ec62945d59b451, type: 3}
+    - {fileID: 102900000, guid: 0a5681aacd207a04781980c4aeb9719a, type: 3}
+    - {fileID: 102900000, guid: c8dde51f37086f94b9e073c055b39eca, type: 3}
+    - {fileID: 102900000, guid: c84c90d26598d6a49a4c5264697079ea, type: 3}
+    - {fileID: 102900000, guid: 2f8b028167e71fe43b50a721064b294e, type: 3}
+    - {fileID: 102900000, guid: 63bd31a6315b92740a8caf97c34e3e50, type: 3}
+    - {fileID: 102900000, guid: 5c75498db2c3bd345a2c92d5dc803707, type: 3}
+    subFolderLevel: 3
+  - ABName: SkinShow
+    paths:
+    - {fileID: 102900000, guid: 48d9956da8f2960469b74c62f28748c9, type: 3}
+    subFolderLevel: 2
